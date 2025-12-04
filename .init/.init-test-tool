@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/recipe-exchange-forum-1879-1888/recipe_forum_frontend"
+}
